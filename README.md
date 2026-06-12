@@ -1,0 +1,2 @@
+# Hybird_deep_learning_non-linear_climate_pattern_detection
+Hybrid Deep Learning for Non-Linear Climate Pattern Detection Using Global Temperature Data is a climate analytics system that combines LSTM and Transformer models to analyze global temperature records (1860–2025). It detects climate trends, seasonal variations, anomalies, and forecasts future temperature patterns through an interactive dashboard.
